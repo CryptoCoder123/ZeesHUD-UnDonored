@@ -2,7 +2,7 @@
 {
 	"Colors"
 	{
-		"ZeesMain"	"255 0 90 255"
+		"ZeesMain"	"12 220 243 255"
 		"Crosshair"	"255 0 90 255"
 		"CrosshairDamage"	"242 0 0 255"
 		"Hitmarker"	"255 0 0 255"
