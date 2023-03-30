@@ -1210,7 +1210,7 @@
 			"border_armed"		""
 			"paintbackground"	"0"
 
-			"image_drawcolor"	"255 255 255 255"
+			"image_drawcolor"	"255 255 51 255"
 			"image_armedcolor"	"0 0 0 255"
 
 			"SubImage"
@@ -1276,7 +1276,7 @@
 			"border_armed"		""
 			"paintbackground"	"0"
 
-			"image_drawcolor"	"255 255 255 255"
+			"image_drawcolor"	"160 160 160 255"
 			"image_armedcolor"	"0 0 0 255"
 			
 			"SubImage"
@@ -1343,7 +1343,7 @@
 			"border_armed"		""
 			"paintbackground"	"0"
 
-			"image_drawcolor"	"255 255 255 255"
+			"image_drawcolor"	"102 51 0 255"
 			"image_armedcolor"	"0 0 0 255"
 
 			"SubImage"
@@ -1410,7 +1410,7 @@
 			"border_armed"		""
 			"paintbackground"	"0"
 
-			"image_drawcolor"	"255 255 255 255"
+			"image_drawcolor"	"0 204 0 255"
 			"image_armedcolor"	"0 0 0 255"
 
 			"SubImage"
@@ -1477,7 +1477,7 @@
 			"border_armed"		""
 			"paintbackground"	"0"
 
-			"image_drawcolor"	"255 255 255 255"
+			"image_drawcolor"	"204 0 0 255"
 			"image_armedcolor"	"0 0 0 255"
 
 			"SubImage"
