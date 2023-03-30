@@ -1410,7 +1410,7 @@
 			"border_armed"		""
 			"paintbackground"	"0"
 
-			"image_drawcolor"	"0 204 0 255"
+			"image_drawcolor"	"0 102 51 255"
 			"image_armedcolor"	"0 0 0 255"
 
 			"SubImage"
