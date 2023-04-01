@@ -2073,7 +2073,7 @@
 		"font"		"FUTURA_BOLD_16"
 		"paintbackground"	"0"
 // 		"command"		"engine incrementvar cl_hud_minmode 0 1 1"
-		"labelText"			"Haji Rocks!"
+		"labelText"			"HAJI ROCKS!"
 		"font"			"HudFontSmallishBold"
 		"textAlignment"	"center"
 		"textinsetx"	"10"
